@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\bin\Debug\ExamHelp.exe.config
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\bin\Debug\ExamHelp.exe
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\bin\Debug\ExamHelp.pdb
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.Form1.resources
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.Properties.Resources.resources
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.exe
+C:\Users\Максим\source\repos\ExamHelp\ExamHelp\obj\Debug\ExamHelp.pdb
